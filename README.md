@@ -5,7 +5,7 @@ An AI-powered multi-agent recruitment system that automates candidate evaluation
 
 The system screens resumes, conducts AI interviews, assigns technical assessments, and generates hiring decisions automatically.
 
-This project demonstrates how LLMs + Multi-Agent AI + Workflow orchestration can transform traditional recruitment processe
+This project demonstrates how LLMs + Multi-Agent AI + Workflow orchestration can transform traditional recruitment process
 
 🧠 AI Agents in the System
 
